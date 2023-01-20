@@ -1,10 +1,8 @@
-<center><img height="50%" width="50%" src="profile/ProotClient-Splash-GitHub.gif"></img></center>
+<img height="50%" width="50%" stylye="text-align: center" src="profile/ProotClient-Splash-GitHub.gif"></img>
 
 # ProotClient 
 
 ProotClient is a JavaScript-based client for the video game [Minecraft (Wikipedia)](https://en.wikipedia.org/wiki/Minecraft). It is fully developed from scratch and features resource packs that can change UI layout, player emotes & cosmetics and much more!
-
-<br><br>
 
 Besides that we also develop utilitys, like:
 - JavaScript Librarys
