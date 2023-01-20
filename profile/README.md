@@ -1,4 +1,4 @@
-<img height="50%" width="50%" stylye="text-align: center" src="profile/ProotClient-Splash-GitHub.gif"></img>
+<align stylye="text-align: center"><img height="50%" width="50%" src="profile/ProotClient-Splash-GitHub.gif"></img></align>
 
 # ProotClient 
 
