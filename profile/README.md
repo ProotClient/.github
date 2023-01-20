@@ -1,4 +1,4 @@
-<center><img height="720px" src="profile/ProotClient-Splash-GitHub.gif"></img></center>
+<center><img height="50%" width="50%" src="profile/ProotClient-Splash-GitHub.gif"></img></center>
 
 # ProotClient 
 
